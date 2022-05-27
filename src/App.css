@@ -1,0 +1,73 @@
+
+.list{
+  width:90%;
+  margin: auto;
+  max-width: 1200px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 150px;
+  row-gap: 50px;
+}
+
+
+.header {
+  height: 100px;
+  width: 90%;
+  margin: auto;
+  max-width: 1200px;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+
+  align-items: center;
+
+}
+
+.logo{
+  display: flex;
+  gap:10px;
+  font-size: 40px;
+  font-weight: 600;
+  color: white;
+  align-items: center;
+}
+
+.instructions{
+  
+  display: flex;
+  justify-content: center;
+  width: 600px;
+  margin: auto;
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  padding-bottom: 50px;
+  
+}
+
+.pollheading{
+  margin-top: 50px;
+  
+  display: flex;
+  justify-content: center;
+  max-width: 1200px;
+  font-size: 50px;
+  font-weight: 600;
+  margin:auto;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+
+  padding-bottom: 20px;
+
+}
+
+
+.sc-kTvvXX {
+  background-color: #43885e !important;
+  width: 40vw !important;
+  height: 450px;
+}
